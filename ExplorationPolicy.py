@@ -637,7 +637,7 @@ class polyExplorer(object):
         return nextPosition
     
     
-    #Some changes
+    #Adding more
     #HAHAHA
 
 
