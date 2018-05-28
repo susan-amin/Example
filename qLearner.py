@@ -293,7 +293,7 @@ class QLearner(object):
         return [self.weightVector,ExpQError,randomWalkFlag,self.numPolyRLMov,self.numRandomWalkMov]
     
             
-                      
+ #Changes                     
     
         
         
