@@ -635,5 +635,9 @@ class polyExplorer(object):
         self.numberOfMoves -= 1
         #self.numberOfSegment=self.segmentNum(currentPosition,nextPosition)
         return nextPosition
+    
+    
+    #Some changes
+    #HAHAHA
 
 
